@@ -1,0 +1,7 @@
+fn main() {
+    let x: int;
+    let c: char;
+    x = 42;
+    c = 'a';
+    println(x);
+}
